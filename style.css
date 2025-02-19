@@ -23,7 +23,7 @@ nav{
 
 main .image{
   
-    background-image:url("image/hero.jpg");
+    background-image:url("hero.jpg");
     background-size:cover;
     background-position: center;
     height:95vh;
